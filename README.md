@@ -8,4 +8,5 @@ Hi, this simple application demonstrates the creation of a modern form in React 
 - Expo
 - Nativebase
 - React Hook Forms
+- React Hook Forms - Yup
 - Typescript
